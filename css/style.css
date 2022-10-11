@@ -1,1 +1,23 @@
 /* Write style code here*/
+#mainForm{
+    border:2px solid black ;
+    width: auto;
+    height: auto;
+    margin-top: 50px;
+}
+header{
+    border: 2px solid yellow;
+    background-color: rgb(28, 28, 117);
+    color: aqua;
+}
+#Symbol{
+    display:inline-block;
+    width: 28px;
+    background-color: lightgray;
+    border: 2px solid;
+    text-align: centre;
+    font-weight: 700;
+    border-radius: 50%;
+    font-size: 15px;
+    padding: 2px;
+}
